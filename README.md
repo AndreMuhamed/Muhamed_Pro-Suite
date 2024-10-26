@@ -1,9 +1,9 @@
 <h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
 
 <div align="center">
-  <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="Facebook" width="25" height="25"></a>
-  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="Instagram" width="25" height="25"></a>
-  <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="Twitter" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="ru" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_Ukrainian.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="ua" width="25" height="25"></a>
+  <a href="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/README_English.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="en" width="25" height="25"></a>
 </div>
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
@@ -211,6 +211,6 @@
 
 ---
 
-> 💡 *"Креативность — это не только внезапные озарения и вдохновение, но и искусство выбора правильных инструментов, которые превращают идеи в реальность. Независимо от того, создаете ли вы яркий видеопроект, рисуете иллюстрацию, программируете или работаете с 3D-графикой, успешное воплощение задуманного зависит от возможностей и удобства инструментов, которые вы используете. Именно они помогают убрать границы между идеей и её реализацией, ускоряют процесс создания и позволяют сфокусироваться на главном — вашей уникальной идее."*
+> *Креативность — это не только внезапные озарения и вдохновение, но и искусство выбора правильных инструментов, которые превращают идеи в реальность. Независимо от того, создаете ли вы яркий видеопроект, рисуете иллюстрацию, программируете или работаете с 3D-графикой, успешное воплощение задуманного зависит от возможностей и удобства инструментов, которые вы используете. Именно они помогают убрать границы между идеей и её реализацией, ускоряют процесс создания и позволяют сфокусироваться на главном — вашей уникальной идее.*
 
 ---
