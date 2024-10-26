@@ -1,8 +1,10 @@
 <h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
 
-[![ru](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true)](./docs/README.ru.md)
-[![uk-UA](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true)](./docs/README.uk-UA.md)
-[![en](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true)](./README.md)
+<div align="center">
+  <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="Facebook" width="25" height="25"></a>
+  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="hhttps://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="Instagram" width="25" height="25"></a>
+  <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="Twitter" width="25" height="25"></a>
+</div>
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
@@ -35,6 +37,7 @@
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(2).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Red-Giant-Magic-Bullet-Suite.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5801606_cdee_3.jpg?raw=true" width="200" height="112" />
 </div>
