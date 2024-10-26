@@ -31,6 +31,7 @@
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(2).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true" width="200" height="112" />
 </div>
@@ -168,18 +169,16 @@
 **Спасибо** всем, кто поддерживает нас! Ваше доверие и обратная связь — это наш главный приоритет. Если у вас есть вопросы или предложения, не стесняйтесь обращаться! 📬
 
 <div align="center">
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1679679686187592531.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1698456437194820220.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4397650.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4499534.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/c8fcdb7e4656ff95aa29067c6ce4dc85.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/kartinka-na-avatarki-dlya-geymer.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1679679686187592531.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1698456437194820220.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4397650.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4499534.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/c8fcdb7e4656ff95aa29067c6ce4dc85.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/kartinka-na-avatarki-dlya-geymer.png?raw=true" width="60" height="60" />
 </div>
 
 ---
 
-> 💡 *"Креативность — это не только внезапные озарения и вдохновение, но и искусство выбора правильных инструментов, которые превращают идеи в реальность. Независимо от того, создаете ли вы яркий видеопроект, рисуете иллюстрацию, программируете или работаете с 3D-графикой, успешное воплощение задуманного зависит от возможностей и удобства инструментов, которые вы используете. Именно они помогают убрать границы между идеей и её реализацией, ускоряют процесс создания и позволяют сфокусироваться на главном — вашей уникальной идее. 
-
-Каждый элемент креативного процесса требует внимания, а эффективные инструменты становятся проводниками в мир безграничного творчества. Ведь с мощным набором инструментов даже самое смелое видение может быть воплощено так, как вы этого хотите — будь то удивляющая динамика движения, глубокая детализация визуальных эффектов или атмосфера, захватывающая с первого взгляда."*
+> 💡 *"Креативность — это не только внезапные озарения и вдохновение, но и искусство выбора правильных инструментов, которые превращают идеи в реальность. Независимо от того, создаете ли вы яркий видеопроект, рисуете иллюстрацию, программируете или работаете с 3D-графикой, успешное воплощение задуманного зависит от возможностей и удобства инструментов, которые вы используете. Именно они помогают убрать границы между идеей и её реализацией, ускоряют процесс создания и позволяют сфокусироваться на главном — вашей уникальной идее."*
 
 ---
