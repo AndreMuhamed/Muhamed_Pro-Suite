@@ -84,6 +84,7 @@
 - **Уроки**: Подробные уроки по работе с звуковыми эффектами и микшированию аудио.
 
 <div align="center">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(8).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(2).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/FabFilter%20Total%20Bundle%202018%20Full%20version.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(3).jpg?raw=true" width="200" height="112" />
