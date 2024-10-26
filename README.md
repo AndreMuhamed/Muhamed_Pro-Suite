@@ -1,4 +1,4 @@
-<h1 align="center"> 🎨 Muhamed_Pro-Suite </h1> 
+<h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
@@ -24,49 +24,61 @@
   - **Adobe Premiere Pro** – CRT Screen Effects, PRESETS PACK TRANSITIONS...
 - **Уроки** на русском и английском языках, которые помогут вам стать мастером монтажа!
 
-![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true)
-![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true)
-![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true" alt="Video Editing 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true" alt="Video Editing 2" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true" alt="Video Editing 3" width="200" height="112">
+</div>
 
 ### 🎨 **Для дизайнеров:**
 - **Плагины и уроки для:**
   - **Adobe Photoshop**, **Adobe Illustrator**, **Cinema 4D**, **Blender**, **Unreal Engine**...
 
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(3).jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(1).jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a1-1920x1080-89a1c130238b7ad3d3f.jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image.php.jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(1).jpg?raw=true)
-![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(7).png?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(3).jpg?raw=true" alt="Design 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(1).jpg?raw=true" alt="Design 2" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a1-1920x1080-89a1c130238b7ad3d3f.jpg?raw=true" alt="Design 3" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.jpg?raw=true" alt="Design 4" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image.php.jpg?raw=true" alt="Design 5" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(1).jpg?raw=true" alt="Design 6" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(7).png?raw=true" alt="Design 7" width="200" height="112">
+</div>
 
 ### 💻 **Для программистов:**
 - 🔥 Крутые уроки и плагины для повышения вашего мастерства.
 
-![Programming](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/images%20(1).jpg?raw=true)
-![Programming](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5563022_7b08_5.jpg?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/images%20(1).jpg?raw=true" alt="Programming 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5563022_7b08_5.jpg?raw=true" alt="Programming 2" width="200" height="112">
+</div>
 
 ### 🎶 **Для аудио редакторов:**
 - **Adobe Audition** – FabFilter Total Bundle, Maag Audio EQ4...
 
-![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(2).jpg?raw=true)
-![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/FabFilter%20Total%20Bundle%202018%20Full%20version.jpg?raw=true)
-![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(3).jpg?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(2).jpg?raw=true" alt="Audio Editing 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/FabFilter%20Total%20Bundle%202018%20Full%20version.jpg?raw=true" alt="Audio Editing 2" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(3).jpg?raw=true" alt="Audio Editing 3" width="200" height="112">
+</div>
 
 ## 💡 **Нейронка**
 Этот пакет идеально подходит для:
-![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.png?raw=true)
-![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(4).jpg?raw=true)
-![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(1).jpg?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.png?raw=true" alt="Neural Network 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(4).jpg?raw=true" alt="Neural Network 2" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(1).jpg?raw=true" alt="Neural Network 3" width="200" height="112">
+</div>
 
 ### 💼 **Дополнительно:**
 - Скачивание программ, используемых в паке, и множество других интересных материалов! 📥
 
-![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/4K-Video-Downloader-Plus-v1.9.1.jpg?raw=true)
-![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/945gXKgpFeKq9BvusG6RSg.jpg?raw=true)
-![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/-nrydxakq_fss.jpg?raw=true)
-![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a01d3fb053a4f7171d527926884495b5.jpg?raw=true)
-![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Topaz-Video-AI-v5.3.3.png.jpg?raw=true)
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/4K-Video-Downloader-Plus-v1.9.1.jpg?raw=true" alt="Download 1" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/945gXKgpFeKq9BvusG6RSg.jpg?raw=true" alt="Download 2" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/-nrydxakq_fss.jpg?raw=true" alt="Download 3" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a01d3fb053a4f7171d527926884495b5.jpg?raw=true" alt="Download 4" width="200" height="112">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Topaz-Video-AI-v5.3.3.png.jpg?raw=true" alt="Download 5" width="200" height="112">
+</div>
 
 ---
 
@@ -79,42 +91,18 @@
 ---
 
 ## 🔥 **Горячие новинки!**
-Мы регулярно обновляем пакет, добавляя самые свежие плагины и уроки с **201-2024 года**. Не пропустите шанс быть в курсе всех новинок! 🌟
+Мы регулярно обновляем пакет, добавляя самые свежие плагины и уроки с **201-2024 года**. Оставайтесь с нами!
 
 ---
 
-## 🎉 **Креативные авторские пакеты**
-Также у нас есть **эксклюзивные авторские пакеты** для дизайнеров и ютуберов от талантливых авторов. Все решения собраны в одном месте, чтобы облегчить ваш поиск! ✨
-
-![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true)
-![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/kMWdaCc-eCw.jpg?raw=true)
-![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/I5LJhQR-eXU.jpg?raw=true)
+## 🛠️ **Поддержка**
+Если у вас есть вопросы или вам нужна помощь, не стесняйтесь обращаться:
+- **E-mail**: andremuhamed@gmail.com
+- **Телеграм**: @andremuhamedd
 
 ---
 
-## 💰 **Цены**
-🤑 Весь этот пакет доступен всего за **15.78 долларов**! Это не просто сделка — это инвестиция в ваше будущее!
-
----
-
-## 🙏 **Благодарности**
-**Спасибо** всем, кто поддерживает нас! Ваше доверие и обратная связь — это наш главный приоритет. Если у вас есть вопросы или предложения, не стесняйтесь обращаться! 📬
-
----
-
-## 📥 **Как заказать пакет?**
-Чтобы заказать пакет, просто перейдите на наш сайт или свяжитесь с нами напрямую. **Начните свое путешествие в мир креативности и возможностей уже сегодня!** 🌈
-
----
-
-## 🔔 **Следите за обновлениями!**
-Чтобы быть в курсе новых функций и обновлений, подпишитесь на наши новости. Мы обещаем регулярные обновления и возможность оставлять отзывы для улучшения пакета!
-
----
-
-### 📧 **Контакты**
-- **Электронная почта**: [support@muhameditsolutions.com](mailto:support@muhameditsolutions.com)
-- **Социальные сети**: 
+## 🌍 **Следите за нами в соцсетях!**
   <a href="https://www.facebook.com/andrmuhamed" target="_blank"><img src="images/social/Facebook.png" alt="Facebook" width="20" height="20"></a>
   <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="images/social/Instagram.png" alt="Instagram" width="20" height="20"></a>
   <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="images/social/Twitter.png" alt="Twitter" width="20" height="20"></a>
@@ -131,7 +119,3 @@
 ---
 
 🌟 **Следите за нашими обновлениями и оставайтесь на волне креативности!**
-
-
-
-<script src="https://kit.fontawesome.com/87b9cd76ed.js" crossorigin="anonymous"></script>
