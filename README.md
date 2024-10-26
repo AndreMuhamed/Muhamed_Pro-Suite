@@ -1,4 +1,7 @@
-# 🎨 **Muhamed IT Solutions**  
+<h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
+
+![image](https://github.com/AndreMuhamed/Plug-in photo/Шабка Мухамеда copyRU.jpg)
+
 ## 🌟 Ваш универсальный пакет для креативных и технических специалистов!
 
 ---
