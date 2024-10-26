@@ -24,17 +24,53 @@
   - **Adobe Premiere Pro** – CRT Screen Effects, PRESETS PACK TRANSITIONS...
 - **Уроки** на русском и английском языках, которые помогут вам стать мастером монтажа!
 
+![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true)
+![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true)
+![Video Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true)
+
 ### 🎨 **Для дизайнеров:**
 - **Плагины и уроки для:**
   - **Adobe Photoshop**, **Adobe Illustrator**, **Cinema 4D**, **Blender**, **Unreal Engine**...
-  
+
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(3).jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(1).jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a1-1920x1080-89a1c130238b7ad3d3f.jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image.php.jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(1).jpg?raw=true)
+![Design](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(7).png?raw=true)
+
 ### 💻 **Для программистов:**
 - 🔥 Крутые уроки и плагины для повышения вашего мастерства.
+
+![Programming](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/images%20(1).jpg?raw=true)
+![Programming](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5563022_7b08_5.jpg?raw=true)
 
 ### 🎶 **Для аудио редакторов:**
 - **Adobe Audition** – FabFilter Total Bundle, Maag Audio EQ4...
 
+![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(2).jpg?raw=true)
+![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/FabFilter%20Total%20Bundle%202018%20Full%20version.jpg?raw=true)
+![Audio Editing](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(3).jpg?raw=true)
+
 ## 💡 **Нейронка**
+Этот пакет идеально подходит для:
+![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.png?raw=true)
+![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(4).jpg?raw=true)
+![Neural Network](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(1).jpg?raw=true)
+
+### 💼 **Дополнительно:**
+- Скачивание программ, используемых в паке, и множество других интересных материалов! 📥
+
+![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/4K-Video-Downloader-Plus-v1.9.1.jpg?raw=true)
+![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/945gXKgpFeKq9BvusG6RSg.jpg?raw=true)
+![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/-nrydxakq_fss.jpg?raw=true)
+![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a01d3fb053a4f7171d527926884495b5.jpg?raw=true)
+![Download](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Topaz-Video-AI-v5.3.3.png.jpg?raw=true)
+
+---
+
+## 💡 **Для кого этот пакет?**
 Этот пакет идеально подходит для:
 - **Новичков** – освоите основы с нашими интуитивными уроками.
 - **Специалистов среднего уровня** – улучшите свои навыки с помощью продвинутых инструментов.
@@ -50,7 +86,9 @@
 ## 🎉 **Креативные авторские пакеты**
 Также у нас есть **эксклюзивные авторские пакеты** для дизайнеров и ютуберов от талантливых авторов. Все решения собраны в одном месте, чтобы облегчить ваш поиск! ✨
 
-![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true)
+![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true)
+![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/kMWdaCc-eCw.jpg?raw=true)
+![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/I5LJhQR-eXU.jpg?raw=true)
 
 ---
 
@@ -95,3 +133,5 @@
 🌟 **Следите за нашими обновлениями и оставайтесь на волне креативности!**
 
 
+
+<script src="https://kit.fontawesome.com/87b9cd76ed.js" crossorigin="anonymous"></script>
