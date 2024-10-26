@@ -137,9 +137,9 @@
 🤑 Весь этот пакет доступен всего за **15.78 долларов**! Это не просто сделка — это инвестиция в ваше будущее!
 
 <div align="center">
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_WbnVGfE6gR.png?raw=true" width="100" height="100" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_eRFCpAJjt2.png?raw=true" width="100" height="100" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_JXnbYvNGHd.png?raw=true" width="100" height="100" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_WbnVGfE6gR.png?raw=true" width="200" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_eRFCpAJjt2.png?raw=true" width="200" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_JXnbYvNGHd.png?raw=true" width="200" height="60" />
 </div>
 
 ---
@@ -168,9 +168,12 @@
 **Спасибо** всем, кто поддерживает нас! Ваше доверие и обратная связь — это наш главный приоритет. Если у вас есть вопросы или предложения, не стесняйтесь обращаться! 📬
 
 <div align="center">
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_WbnVGfE6gR.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_eRFCpAJjt2.png?raw=true" width="40" height="40" />
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_JXnbYvNGHd.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1679679686187592531.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1698456437194820220.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4397650.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4499534.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/c8fcdb7e4656ff95aa29067c6ce4dc85.png?raw=true" width="40" height="40" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/kartinka-na-avatarki-dlya-geymer.png?raw=true" width="40" height="40" />
 </div>
 
 ---
