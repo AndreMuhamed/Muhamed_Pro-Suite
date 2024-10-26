@@ -1,7 +1,8 @@
 <h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](./docs/README.ru.md)
-[![uk-UA](https://img.shields.io/badge/lang-uk--UA-blue)](./docs/README.uk-UA.md)
+
+[![ru](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true)](./docs/README.ru.md)
+[![uk-UA](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true)](./docs/README.uk-UA.md)
+[![en](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true)](./README.md)
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
