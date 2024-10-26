@@ -58,9 +58,9 @@
 
 ## 🎉 **Креативные авторские пакеты**
 Также у нас есть **эксклюзивные авторские пакеты** для дизайнеров и ютуберов от талантливых авторов. Все решения собраны в одном месте, чтобы облегчить ваш поиск! ✨
-https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true
-https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/kMWdaCc-eCw.jpg?raw=true
-https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/I5LJhQR-eXU.jpg?raw=true
+![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true)
+![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/kMWdaCc-eCw.jpg?raw=true)
+![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/I5LJhQR-eXU.jpg?raw=true)
 
 ---
 
