@@ -149,7 +149,7 @@
 Мы регулярно обновляем пакет, добавляя самые свежие плагины и уроки с **201-2024 года**. Не пропустите шанс быть в курсе всех новинок! 🌟
 
 <div align="center">
-    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Animation-Studio-Packs-Collection-2023-Updates-800x480.jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/particle_titles_video_picture.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Astute-Graphics-Plug-ins-Elite-Bundle-2.3.0.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Montage-Graphic-Pack-Titles-Transitions-Lower-Thirds-and-more.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/AEViewer-Review.png?raw=true" width="200" height="112" />
