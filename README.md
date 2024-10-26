@@ -153,7 +153,7 @@
   <a href="https://www.tiktok.com/@andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/TikTok.png?raw=true" alt="TikTok" width="20" height="20"></a>
   <a href="https://t.me/ProManagerss_bot" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Boat.png?raw=true" alt="Donation" width="20" height="20"></a>
   <a href="https://www.patreon.com/andremuhamad" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Patreon.png?raw=true" alt="Patreon" width="20" height="20"></a>
-  <a href="https://www.donationalerts.com/r/andremuhamad" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Donation.png?raw=true" alt="Donation" width="20" height="20"></a>
+  <a href="https://www.donationalerts.com/r/andremuhamad" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Donation.png?raw=true" alt="Donation" width="72" height="272"></a>
 </div>
 
 ---
