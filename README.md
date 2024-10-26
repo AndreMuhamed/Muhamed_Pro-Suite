@@ -176,7 +176,7 @@
 - **Легко и быстро**: Заказ доступен через наш [БОТА](https://t.me/ProManagerss_bot). Просто заполните форму, и вы получите доступ к пакету в кратчайшие сроки.
 - **Поддержка клиентов**: Наша команда всегда готова помочь вам с любыми вопросами о покупке и использовании пакета.
 
-https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/601155207247725.66d9f201ba38e.gif?raw=true
+![Creative Packages](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/601155207247725.66d9f201ba38e.gif?raw=true)
 
 ---
 
