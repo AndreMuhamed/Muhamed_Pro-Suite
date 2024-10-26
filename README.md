@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298434_russia_russia.png?raw=true" alt="Facebook" width="25" height="25"></a>
-  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="hhttps://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="Instagram" width="25" height="25"></a>
+  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298489_ukraine_ukraine.png?raw=true" alt="Instagram" width="25" height="25"></a>
   <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298478_kingdom_united_kingdom_united.png?raw=true" alt="Twitter" width="25" height="25"></a>
 </div>
 
@@ -196,12 +196,15 @@
 **Спасибо** всем, кто поддерживает нас! Ваше доверие и обратная связь — это наш главный приоритет. Если у вас есть вопросы или предложения, не стесняйтесь обращаться! 📬
 
 <div align="center">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/images.jpg?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1679679686187592531.png?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1698456437194820220.png?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4397650.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/03795b33fa996a497187f1d9fb864035.jpg?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/4499534.png?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/c8fcdb7e4656ff95aa29067c6ce4dc85.png?raw=true" width="60" height="60" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/kartinka-na-avatarki-dlya-geymer.png?raw=true" width="60" height="60" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Author%20thank%20you/1680581226_kartinki-pibig-info-p-prikolnie-kartinki-v-stim-arti-3.jpg?raw=true" width="60" height="60" />
 </div>
 
 ---
