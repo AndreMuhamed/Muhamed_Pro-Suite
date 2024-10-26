@@ -1,6 +1,6 @@
 <h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
 
-![image](https://github.com/AndreMuhamed/Plug-photo/Шабка Мухамеда copyRU.jpg)
+![image](https://github.com/AndreMuhamed/Plug-photo/ШабкаМухамеда copyRU.jpg)
 
 ## 🌟 Ваш универсальный пакет для креативных и технических специалистов!
 
