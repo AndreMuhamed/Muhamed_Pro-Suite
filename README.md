@@ -30,10 +30,12 @@
 - **Уроки**: Наши видеоуроки на русском и английском языках помогут вам освоить монтажные техники и приемы редактирования. 
 
 <div align="center">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Editing-Nerchukundam-min.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(2).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5801606_cdee_3.jpg?raw=true" width="200" height="112" />
 </div>
 
 ---
@@ -55,6 +57,8 @@
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image.php.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(1).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(7).png?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Tropic-Colour-Sample-Bundle.jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image.jpg?raw=true" width="200" height="112" />
 </div>
 
 ---
