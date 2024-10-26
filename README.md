@@ -5,7 +5,7 @@
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
-## 🌟 Ваш универсальный пакет для креативных и технических специалистов!
+<h2 align="center">🌟 Ваш универсальный пакет для креативных и технических специалистов!</h2>
 
 ---
 
@@ -19,13 +19,15 @@
 
 ---
 
-## ✨ **Что входит в пакет?**
+<h1 align="center"> ✨ Что входит в пакет? </h1>
+
+---
 
 ### 🎞️ **Для видеоредакторов:**
 - **Плагины для:**
   - **Adobe After Effects**: Motion Bro 4, AEJuice, Element 3D, PremiumBuilder, VC Color Vibrance, Red Giant.
+  - **Adobe Premiere Pro**: CRT Screen Effects for Premiere Pro, PRESETS PACK TRANSITIONS, Weather Bars for Premiere Pro.
 - **Уроки**: Наши видеоуроки на русском и английском языках помогут вам освоить монтажные техники и приемы редактирования. 
-- **Примеры работ**: Мы предоставили примеры использованных эффектов и фреймов, чтобы вы могли вдохновиться и начать работу сразу!
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(6).jpg?raw=true" width="200" height="112" />
@@ -36,12 +38,13 @@
 ---
 
 ### 🎨 **Для дизайнеров:**
-- **Плагины и уроки для:**
-  - **Adobe Photoshop**: Расширьте свои навыки в фотоманипуляциях с нашими плагинами и шаблонами.
-  - **Adobe Illustrator**: Обучение созданию векторной графики с помощью передовых инструментов.
-  - **Cinema 4D**: Уникальные возможности для создания 3D-моделей и анимаций.
-  - **Blender**: Инструменты для моделирования, текстурирования и рендеринга.
-  - **Unreal Engine**: Создание интерактивных проектов и игр.
+- **Плагины для:**
+  - **Adobe Photoshop**: Holographic 3D shapes collection, Photo Overlays Bundle, Tropic Colour Sample Bundle, DxO Nik Collection.
+  - **Adobe Illustrator**: Gumroad - The Intergalactic Juicy Supply, Pastels Illustrator Brush-Kit, Astute Graphics Plug-ins Elite Bundle.
+  - **Cinema 4D**: Chaos Corona 12 hotfix 1 for Cinema 4D, NextLimit RealFlow v3.3.8.0060 C4D WIN, V-Ray Advanced 6.00.04 For Cinema 4D R21-2023.
+  - **Blender**: Dynamic Terrain 1.0 - Fulld, AutoDepth AI v1.0.1, RenderBoostProAddon v0.2.1, TraceGenius Pro v1.0.
+  - **Unreal Engine**: Asylum UE 5.0+, Scorched City v5.4, Soviet Living Room & Furniture Props v4.27+, Abandoned school_UE5.1, EasyFog v5.3.
+- **Уроки**: Наши видеоуроки на русском и английском языках помогут вам освоить дизайна графитики  и приемы интересного.
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(3).jpg?raw=true" width="200" height="112" />
@@ -62,12 +65,14 @@
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/images%20(1).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/5563022_7b08_5.jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(5).jpg?raw=true" width="200" height="112" />
 </div>
 
 ---
 
 ### 🎶 **Для аудио редакторов:**
-- **Adobe Audition**: Набор мощных инструментов для работы с аудио, включая компрессоры и эквалайзеры. Идеально для подкастеров и музыкантов!
+- **Плагины для:**
+  - **Adobe Audition**: FabFilter Total Bundle, Maag Audio EQ4, Antares Auto-Tune Full, Slate Digital - Fresh Air.
 - **Уроки**: Подробные уроки по работе с звуковыми эффектами и микшированию аудио.
 
 <div align="center">
@@ -78,13 +83,14 @@
 
 ---
 
-## 💡 **Нейронка**
+## 💡 **Нейронка всех мастей**
 - **Интеграция ИИ**: Используйте возможности нейросетей для создания уникальных визуальных эффектов и аудиодорожек. Наш пакет включает в себя инструменты для генерации контента с помощью AI!
 
 <div align="center">
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720.png?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(4).jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/image%20(1).jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/1697218411834-png.png?raw=true" width="200" height="112" />
 </div>
 
 ---
@@ -98,6 +104,7 @@
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/-nrydxakq_fss.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a01d3fb053a4f7171d527926884495b5.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Topaz-Video-AI-v5.3.3.png.jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/xmedia_recode_1152.jpg?raw=true" width="200" height="112" />
 </div>
 
 ---
@@ -128,6 +135,12 @@
 
 ## 💰 **Цены**
 🤑 Весь этот пакет доступен всего за **15.78 долларов**! Это не просто сделка — это инвестиция в ваше будущее!
+
+<div align="center">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_WbnVGfE6gR.png?raw=true" width="150" height="180" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_eRFCpAJjt2.png?raw=true" width="150" height="180" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/chrome_JXnbYvNGHd.png?raw=true" width="150" height="180" />
+</div>
 
 ---
 
