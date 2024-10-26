@@ -114,6 +114,7 @@
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/a01d3fb053a4f7171d527926884495b5.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/Topaz-Video-AI-v5.3.3.png.jpg?raw=true" width="200" height="112" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/xmedia_recode_1152.jpg?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/hq720%20(2).png?raw=true" width="200" height="112" />
 </div>
 
 ---
@@ -125,6 +126,13 @@
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/QsaVQsNlW7s.jpg?raw=true" width="200" height="220" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/kMWdaCc-eCw.jpg?raw=true" width="200" height="220" />
     <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/I5LJhQR-eXU.jpg?raw=true" width="200" height="220" />
+</div>
+
+<div align="center">
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(4).png?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(5).png?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault%20(6).png?raw=true" width="200" height="112" />
+    <img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/maxresdefault.png?raw=true" width="200" height="112" />
 </div>
 
 ---
