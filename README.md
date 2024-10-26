@@ -1,4 +1,7 @@
 <h1 align="center"> 🎨 Muhamed_Pro-Suite </h1>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](./docs/README.ru.md)
+[![uk-UA](https://img.shields.io/badge/lang-uk--UA-blue)](./docs/README.uk-UA.md)
 
 ![image](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyRU.jpg?raw=true)
 
@@ -143,14 +146,14 @@
 
 🌍 **Следите за нами в соцсетях!**
 <div align="center">
-  <a href="https://www.facebook.com/andrmuhamed" target="_blank"><img src="images/social/Facebook.png" alt="Facebook" width="20" height="20"></a>
-  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="images/social/Instagram.png" alt="Instagram" width="20" height="20"></a>
-  <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="images/social/Twitter.png" alt="Twitter" width="20" height="20"></a>
-  <a href="https://t.me/andremuhamedd" target="_blank"><img src="images/social/Telegram.png" alt="Telegram" width="20" height="20"></a>
-  <a href="https://www.tiktok.com/@andremuhamedd" target="_blank"><img src="images/social/TikTok.png" alt="TikTok" width="20" height="20"></a>
-  <a href="https://t.me/ProManagerss_bot" target="_blank"><img src="images/social/Boat.png" alt="Donation" width="20" height="20"></a>
-  <a href="https://www.patreon.com/andremuhamad" target="_blank"><img src="images/social/Patreon.png" alt="Patreon" width="20" height="20"></a>
-  <a href="https://www.donationalerts.com/r/andremuhamad" target="_blank"><img src="images/social/Donation.png" alt="Donation" width="20" height="20"></a>
+  <a href="https://www.facebook.com/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Facebook.png?raw=true" alt="Facebook" width="20" height="20"></a>
+  <a href="https://www.instagram.com/admirall_times" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Instagram.png?raw=true" alt="Instagram" width="20" height="20"></a>
+  <a href="https://twitter.com/Andremuhamed" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Twitter.png?raw=true" alt="Twitter" width="20" height="20"></a>
+  <a href="https://t.me/andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Telegram.png?raw=true" alt="Telegram" width="20" height="20"></a>
+  <a href="https://www.tiktok.com/@andremuhamedd" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/TikTok.png?raw=true" alt="TikTok" width="20" height="20"></a>
+  <a href="https://t.me/ProManagerss_bot" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Boat.png?raw=true" alt="Donation" width="20" height="20"></a>
+  <a href="https://www.patreon.com/andremuhamad" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Patreon.png?raw=true" alt="Patreon" width="20" height="20"></a>
+  <a href="https://www.donationalerts.com/r/andremuhamad" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Social%20networks/Donation.png?raw=true" alt="Donation" width="20" height="20"></a>
 </div>
 
 ---
